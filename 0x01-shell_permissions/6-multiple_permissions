@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod 554 hello
+#!/bin/bash\nchmod ug+x,o+r hello
